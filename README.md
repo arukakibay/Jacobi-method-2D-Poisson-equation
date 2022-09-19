@@ -1,0 +1,2 @@
+# Jacobi-method-2D-Poisson-equation
+We considered 2D Poisson equation, elliptic type, and we used Jacobi method of iteration. Also we can denote that function is 0, so we see that it becomes as Laplace equation. Here we used Jacobi method because in Poisson equation we donnot have time.We wrote 4 boundaries and one of them was given by Neumann boundary condition at y=0. Main task was to write boundaries rightly.   
